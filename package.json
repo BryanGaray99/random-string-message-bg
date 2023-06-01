@@ -1,0 +1,19 @@
+{
+  "name": "random-string-message-bg",
+  "version": "1.0.0",
+  "description": "Random String Messages - Platzi practice creating npm modules",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanGaray99/random-string-message-bg.git"
+  },
+  "keywords": ["npm package"],
+  "author": "Bryan Garay <bryangarayacademico@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-string-message-bg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
