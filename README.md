@@ -9,16 +9,17 @@ This is a package produced in order to practice the use of npm commands and inte
 npm install -g random-string-message-bg
 ```
 
-# Usage
+## Usage
 
 ```bash
  stellarMessage
 ```
 
-# Contributing
+## Contributing
 
 If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-string-message-bg](https://github.com/BryanGaray99/random-string-message-bg)
 
-# License
+## License
 
 random-string-message-bg is released under the [MIT License](https://opensource.org/licenses/MIT).
+
