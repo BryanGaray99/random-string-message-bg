@@ -1,6 +1,6 @@
 {
   "name": "random-string-message-bg",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Random String Messages - Platzi practice creating npm modules",
   "main": "index.js",
   "scripts": {},
