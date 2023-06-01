@@ -1,5 +1,5 @@
 # random-string-message-bg
-<p>Random String Messages - Platzi practice (NPM: Dependency and Package Management in JavaScript)</p>
+<p>Random String Messages - Platzi practice (NPM: Dependency and Package Management in JavaScript).</p>
 This is a package produced in order to practice the use of npm commands and interacting with packages. 
 <p>The package can be used in a bash console or terminal after installation and produces a random motivational message for you!</p>
 
@@ -24,5 +24,5 @@ If someone wants to add or improve something, I invite you to collaborate direct
 random-string-message-bg is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Developer
-Bryan Garay
-Contact: bryangarayacademico@gmail.com
+<p>Bryan Garay</p>
+<p>Contact: bryangarayacademico@gmail.com</p>
