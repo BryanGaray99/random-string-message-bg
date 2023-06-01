@@ -22,4 +22,3 @@ If someone wants to add or improve something, I invite you to collaborate direct
 ## License
 
 random-string-message-bg is released under the [MIT License](https://opensource.org/licenses/MIT).
-
